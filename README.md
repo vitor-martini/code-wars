@@ -1,2 +1,2 @@
 # Code Kata
-Códigos Kata para treinamento de lógica por meio de prática e repetição.
+Kata codes for training logic through practice and repetition.
